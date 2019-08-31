@@ -1,0 +1,2 @@
+flask==1.0.2
+exponent_server_sdk==0.2.0
